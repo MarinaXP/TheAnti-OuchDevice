@@ -2,7 +2,7 @@
 
 Ever wish you had a sixth sense? This system gives you a new way to sense the world around you, acting as a navigation aid that uses vibrations to help you "feel" objects. It's all inspired by the way bats use echolocation.
 
-![Teasing screen](https://github.com/MarinaXP/https://github.com/MarinaXP/The_Anti-Ouch_Device/blob/20e5a0d961f0e79bd2adb1fd8e0170e3fe029860/presentation_screen.png?raw=true)
+![Teasing screen](presentation_screen.png?raw=true)
 
 ### How It Works
 

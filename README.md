@@ -52,6 +52,7 @@ The system clamps distances closer than 5cm or farther than 150cm to these limit
 4.  The system will confirm it's ready with three short vibration pulses.
 
 On the exterior side of the headband, the HC-SR04 Ultrasonic Sensor is placed, while on the interior side, the vibrator is positioned for haptic feedback.
+
 <img src="proto_anti_ouch.png" alt="shemas" width="300">
 
 

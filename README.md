@@ -43,7 +43,6 @@ The system operates on a 30ms measurement cycle. Depending on the distance, you'
 
 The system clamps distances closer than 5cm or farther than 150cm to these limits, so you'll always get a clear feedback pattern.
 
----
 
 ### Installation
 
@@ -52,7 +51,9 @@ The system clamps distances closer than 5cm or farther than 150cm to these limit
 3.  Open the Serial Monitor (at 9600 baud) to view real-time distance data.
 4.  The system will confirm it's ready with three short vibration pulses.
 
----
+On the exterior side of the headband, the HC-SR04 Ultrasonic Sensor is placed, while on the interior side, the vibrator is positioned for haptic feedback.
+![shemas]([presentation_screen.png](https://github.com/MarinaXP/TheAnti-OuchDevice)?raw=true)
+
 
 ### Configuration
 
